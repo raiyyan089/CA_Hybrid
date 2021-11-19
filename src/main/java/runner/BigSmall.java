@@ -13,7 +13,6 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import jdk.internal.org.jline.utils.Log;
 import pageobject.HomePage;
 import pageobject.Login;
 import pageobject.PersonalizedGift;
