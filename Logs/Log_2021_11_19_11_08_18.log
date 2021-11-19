@@ -1,0 +1,44 @@
+2021-11-19 20:11:23,760  INFO [main] BigSmall:59 - Navigated to URL - Big Small
+2021-11-19 20:11:24,054  INFO [main] BigSmall:62 - Landing at Home Page
+2021-11-19 20:11:29,064  INFO [main] BigSmall:73 - Successfully directed to Sign In Page
+2021-11-19 20:11:32,143  INFO [main] BigSmall:81 - Entered username-> 
+2021-11-19 20:11:32,218  INFO [main] BigSmall:84 - Entered password-> 
+2021-11-19 20:11:33,807  INFO [main] BigSmall:86 - Clicked on Submit button
+2021-11-19 20:11:40,396  INFO [main] BigSmall:73 - Successfully directed to Sign In Page
+2021-11-19 20:11:43,499  INFO [main] BigSmall:81 - Entered username-> simon@123
+2021-11-19 20:11:43,586  INFO [main] BigSmall:84 - Entered password-> abcd
+2021-11-19 20:11:43,657  INFO [main] BigSmall:86 - Clicked on Submit button
+2021-11-19 20:11:50,118  INFO [main] BigSmall:73 - Successfully directed to Sign In Page
+2021-11-19 20:11:53,237  INFO [main] BigSmall:81 - Entered username-> JackNJill@gmail.com
+2021-11-19 20:11:53,345  INFO [main] BigSmall:84 - Entered password-> JackNJill@123
+2021-11-19 20:11:53,416  INFO [main] BigSmall:86 - Clicked on Submit button
+2021-11-19 20:11:59,729  INFO [main] BigSmall:100 - Successfully Sorted Products High to Low based on price
+2021-11-19 20:12:02,131  INFO [main] BigSmall:109 - Successfully searched product - Diary
+2021-11-19 20:12:02,267  INFO [main] BigSmall:113 - Successfully verified products are displayed
+2021-11-19 20:12:04,508  INFO [main] BigSmall:119 - Successfully navigated to Christmas Gifts
+2021-11-19 20:12:09,152  INFO [main] BigSmall:125 - Added product to cart
+2021-11-19 20:12:17,657  INFO [main] BigSmall:133 - Proceeded to checkout and returned to cart
+2021-11-19 20:12:22,162  INFO [main] BigSmall:142 - Selected 18th Birthday Gift
+2021-11-19 20:12:30,605  INFO [main] BigSmall:150 - Successfully Added Product to Wishlist
+2021-11-19 20:12:34,992  INFO [main] BigSmall:158 - Navigated to All of it Page
+2021-11-19 20:12:35,038  INFO [main] BigSmall:161 - Verified Auto Rickshaw Pen Stand
+2021-11-19 20:12:40,391  INFO [main] BigSmall:168 - Wishlist Page
+2021-11-19 20:12:42,491  INFO [main] BigSmall:175 - Products are displayed in Wishlist
+2021-11-19 20:12:43,947  INFO [main] BigSmall:181 - About Us Page
+2021-11-19 20:12:43,993  INFO [main] BigSmall:184 - Verified title of About Us Page
+2021-11-19 20:12:45,901  INFO [main] BigSmall:205 - clicked on contact us
+2021-11-19 20:12:48,391  INFO [main] BigSmall:211 - all info added
+2021-11-19 20:12:48,406  INFO [main] BigSmall:215 - thank you for contacting us
+2021-11-19 20:12:50,036  INFO [main] BigSmall:190 - Gift Cards Page
+2021-11-19 20:12:52,176  INFO [main] BigSmall:194 - Added Gift Card to cart
+2021-11-19 20:12:52,207  INFO [main] BigSmall:197 - Verified cart
+2021-11-19 20:12:56,675 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-19 20:12:56,675 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-19 20:12:56,675 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-19 20:12:56,675 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-19 20:12:56,675 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/segas/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-19 20:12:56,832 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-19 20:12:56,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-19 20:12:56,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-19 20:12:56,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-19 20:12:56,832 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/segas/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
