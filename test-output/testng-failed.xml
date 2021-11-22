@@ -5,8 +5,16 @@
     <classes>
       <class name="runner.BigSmall">
         <methods>
-          <include name="closeDriver"/>
+          <include name="PersonalizedPage"/>
+          <include name="AllofIt"/>
+          <include name="Search"/>
+          <include name="GiftCard"/>
+          <include name="LoginPage" invocation-numbers="0 1 2"/>
           <include name="Contact"/>
+          <include name="ChristmasGift"/>
+          <include name="Wishlist"/>
+          <include name="AboutUs"/>
+          <include name="ShopByPage"/>
         </methods>
       </class> <!-- runner.BigSmall -->
     </classes>

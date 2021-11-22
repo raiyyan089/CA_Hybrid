@@ -236,9 +236,9 @@ public class BigSmall extends WebDriverHelper {
 		return data;
 	}
 	
-	@AfterTest()
-	public void closeDriver() {
-		driver.close();
-	}
+//	@AfterTest()
+//	public void closeDriver() {
+//		driver.close();
+//	}
 
 }
